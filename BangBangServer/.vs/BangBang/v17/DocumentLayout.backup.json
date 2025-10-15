@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBangServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbangserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbangserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBangServer\\Server.cs",
+              "RelativeDocumentMoniker": "Server.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBangServer\\Server.cs",
+              "RelativeToolTip": "Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:41:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBangServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBangServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:23:19.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

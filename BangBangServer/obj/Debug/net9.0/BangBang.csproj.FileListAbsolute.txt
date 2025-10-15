@@ -1,0 +1,106 @@
+C:\msys64\home\Administrator\OOP\BangBang\bin\Debug\net9.0\BangBang.exe
+C:\msys64\home\Administrator\OOP\BangBang\bin\Debug\net9.0\BangBang.deps.json
+C:\msys64\home\Administrator\OOP\BangBang\bin\Debug\net9.0\BangBang.runtimeconfig.json
+C:\msys64\home\Administrator\OOP\BangBang\bin\Debug\net9.0\BangBang.dll
+C:\msys64\home\Administrator\OOP\BangBang\bin\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.AssemblyInfoInputs.cache
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.AssemblyInfo.cs
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.csproj.CoreCompileInputs.cache
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.dll
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\refint\BangBang.dll
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\BangBang.genruntimeconfig.cache
+C:\msys64\home\Administrator\OOP\BangBang\obj\Debug\net9.0\ref\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\BangBang.exe
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\BangBang.deps.json
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\BangBang.runtimeconfig.json
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.AssemblyInfoInputs.cache
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.AssemblyInfo.cs
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.csproj.CoreCompileInputs.cache
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\refint\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.genruntimeconfig.cache
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\ref\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\DnsClient.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\SharpCompress.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\Snappier.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\bin\Debug\net9.0\ZstdSharp.dll
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.csproj.AssemblyReference.cache
+C:\msys64\home\Kien\OOP\OOP\BangBang\obj\Debug\net9.0\BangBang.csproj.Up2Date
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\BangBang.exe
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\BangBang.deps.json
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\BangBang.runtimeconfig.json
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\DnsClient.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\SharpCompress.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\Snappier.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\bin\Debug\net9.0\ZstdSharp.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.csproj.AssemblyReference.cache
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfoInputs.cache
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfo.cs
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.csproj.CoreCompileInputs.cache
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.csproj.Up2Date
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\refint\BangBang.dll
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.pdb
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\BangBang.genruntimeconfig.cache
+C:\msys64\home\Kien\OOP\OOP\BangBangServer\obj\Debug\net9.0\ref\BangBang.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.exe
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.deps.json
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.runtimeconfig.json
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.pdb
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\Snappier.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.AssemblyReference.cache
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfoInputs.cache
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfo.cs
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.CoreCompileInputs.cache
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.Up2Date
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\refint\BangBang.dll
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.pdb
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.genruntimeconfig.cache
+C:\Users\Louis PC\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\ref\BangBang.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.exe
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.deps.json
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.runtimeconfig.json
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\BangBang.pdb
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\Snappier.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.csproj.Up2Date
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\refint\BangBang.dll
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.pdb
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\BangBang.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Swinburne\Year 2\Object_Oriented_Programming\CustomProgram\BangBangServer\obj\Debug\net9.0\ref\BangBang.dll

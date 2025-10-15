@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\offlinebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:offlinebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\onlinebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:onlinebattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\onlineplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:onlineplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:aiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\aidkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:aidkid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\shopbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:shopbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\itembattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:itembattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|c:\\users\\louis pc\\documents\\swinburne\\year 2\\object_oriented_programming\\customprogram\\bangbang\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C28E604-7E2E-4911-0E1F-00D155E38A75}|BangBang.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Animation.cs",
+              "RelativeDocumentMoniker": "Animation.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Animation.cs",
+              "RelativeToolTip": "Animation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:21:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T18:12:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AgIAALMCAAAAAAAAAAAQwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:37:51.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShopBattle.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\ShopBattle.cs",
+              "RelativeDocumentMoniker": "ShopBattle.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\ShopBattle.cs",
+              "RelativeToolTip": "ShopBattle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:18:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlinePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OnlinePlayer.cs",
+              "RelativeDocumentMoniker": "OnlinePlayer.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OnlinePlayer.cs",
+              "RelativeToolTip": "OnlinePlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:05:05.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Tower.cs",
+              "RelativeDocumentMoniker": "Tower.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Tower.cs",
+              "RelativeToolTip": "Tower.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:59:31.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Thing.cs",
+              "RelativeDocumentMoniker": "Thing.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Thing.cs",
+              "RelativeToolTip": "Thing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:10:45.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Soldier.cs",
+              "RelativeDocumentMoniker": "Soldier.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Soldier.cs",
+              "RelativeToolTip": "Soldier.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAwBcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:00:00.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\SignUp.cs",
+              "RelativeToolTip": "SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:59:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Battle.cs",
+              "RelativeDocumentMoniker": "Battle.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Battle.cs",
+              "RelativeToolTip": "Battle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:02:05.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:23:19.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:36:59.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineBattle.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OnlineBattle.cs",
+              "RelativeDocumentMoniker": "OnlineBattle.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OnlineBattle.cs",
+              "RelativeToolTip": "OnlineBattle.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAswAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:40:09.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Bag.cs",
+              "RelativeDocumentMoniker": "Bag.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Bag.cs",
+              "RelativeToolTip": "Bag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:47:41.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:51:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\AIPlayer.cs",
+              "RelativeDocumentMoniker": "AIPlayer.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\AIPlayer.cs",
+              "RelativeToolTip": "AIPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:00:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:02:42.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\SignIn.cs",
+              "RelativeToolTip": "SignIn.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwIsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:19:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAJIBAAAAAAAAAAAAAJkBAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:57:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Page.cs",
+              "RelativeDocumentMoniker": "Page.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Page.cs",
+              "RelativeToolTip": "Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T04:31:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfflineBattle.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OfflineBattle.cs",
+              "RelativeDocumentMoniker": "OfflineBattle.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\OfflineBattle.cs",
+              "RelativeToolTip": "OfflineBattle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:39:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Monster.cs",
+              "RelativeDocumentMoniker": "Monster.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Monster.cs",
+              "RelativeToolTip": "Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T10:00:51.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Match.cs",
+              "RelativeDocumentMoniker": "Match.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Match.cs",
+              "RelativeToolTip": "Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:32:22.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:23:44.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemBattle.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\ItemBattle.cs",
+              "RelativeDocumentMoniker": "ItemBattle.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\ItemBattle.cs",
+              "RelativeToolTip": "ItemBattle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:23:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:15:52.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InputBox.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\InputBox.cs",
+              "RelativeDocumentMoniker": "InputBox.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\InputBox.cs",
+              "RelativeToolTip": "InputBox.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:57:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:25:14.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:34:37.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:04:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AidKid.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\AidKid.cs",
+              "RelativeDocumentMoniker": "AidKid.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\AidKid.cs",
+              "RelativeToolTip": "AidKid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T02:00:21.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\Louis PC\\Documents\\Swinburne\\Year 2\\Object_Oriented_Programming\\CustomProgram\\BangBang\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:44:02.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
